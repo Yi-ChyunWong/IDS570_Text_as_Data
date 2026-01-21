@@ -112,24 +112,49 @@ word_counts_filtered
 plot_n_words <- 20  # you can change this as needed
 
 # Select the most frequent words overall
-top_words <- word_counts %>%
+word_comparison_tbl <- word_counts %>%
   pivot_wider(
     names_from = doc_title,
     values_from = n,
     values_fill = 0
   ) %>%
   mutate(max_n = pmax(`Text A`, `Text B`)) %>%
-  arrange(desc(max_n)) %>%
+  arrange(desc(max_n))
+  
+top_words <- word_comparison_tbl %>%
   slice_head(n = plot_n_words) %>%
   select(word)
 
 top_words
 
 word_plot_data <- word_counts_normalized %>%
-  semi_join(top_words)
+  semi_join(top_words, by = "word") %>%
   mutate(word = fct_reorder(word, relative_freq, .fun = max))
 
 word_plot_data
+
+word_plot_data_raw <- word_comparison_tbl %>%
+  slice_head(n = plot_n_words) %>%
+  pivot_longer(
+    cols = c(`Text A`, `Text B`),
+    names_to = "doc_title",
+    values_to = "n"
+  ) %>%
+  mutate(word = fct_reorder(word, n, .fun = max))
+
+ggplot(word_plot_data_raw, aes(x = n, y = word)) + #black magic happens thanks to ggplot
+  geom_col() +
+  facet_wrap(~ doc_title, scales = "free_x") +
+  labs(
+    title = "Most frequent words (stopwords removed)",
+    subtitle = paste0(
+      "Top ", plot_n_words,
+      " words by maximum frequency across both texts"
+    ),
+    x = "Word frequency",
+    y = NULL
+  ) +
+  theme_minimal()
 
 ggplot(word_plot_data, aes(x = relative_freq, y = word)) + #black magic happens thanks to ggplot
   geom_col() +
