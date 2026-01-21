@@ -28,28 +28,28 @@ texts <- tibble(
 texts
 
 # Task 1: Diagnostics ----
-# count_tokens <- function(text) {
-#   tibble(text = text) %>%
-#     unnest_tokens(word, text) %>%
-#     nrow()
-# }
-# 
-# count_word_types <- function(text) {
-#   tibble(text = text) %>% 
-#     unnest_tokens(word, text) %>% 
-#     mutate(word = str_to_lower(word)) %>% 
-#     distinct(word) %>% 
-#     nrow()
-# }
-# 
-# corpus_diagnostics <- tibble(
-#   doc_title = c("Text A", "Text B"),
-#   n_chars = c(str_length(text_a), str_length(text_b)),
-#   n_word_tokens = c(count_tokens(text_a),
-#                     count_tokens(text_b)),
-#   n_word_types = c(count_word_types(text_a),
-#                    count_word_types(text_b))
-# )
+count_tokens <- function(text) {
+  tibble(text = text) %>%
+    unnest_tokens(word, text) %>%
+    nrow()
+}
+
+count_word_types <- function(text) {
+  tibble(text = text) %>%
+    unnest_tokens(word, text) %>%
+    mutate(word = str_to_lower(word)) %>%
+    distinct(word) %>%
+    nrow()
+}
+
+corpus_diagnostics_mine <- tibble(
+  doc_title = c("Text A", "Text B"),
+  n_chars = c(str_length(text_a), str_length(text_b)),
+  n_word_tokens = c(count_tokens(text_a),
+                    count_tokens(text_b)),
+  n_word_types = c(count_word_types(text_a),
+                   count_word_types(text_b))
+)
 
 corpus_diagnostics <- texts %>%
   mutate(n_chars = str_length(text)) %>%
@@ -112,25 +112,22 @@ word_counts_filtered
 plot_n_words <- 20  # you can change this as needed
 
 # Select the most frequent words overall
-word_comparison_tbl <- word_counts_normalized %>%
+top_words <- word_counts %>%
   pivot_wider(
     names_from = doc_title,
     values_from = n,
     values_fill = 0
   ) %>%
   mutate(max_n = pmax(`Text A`, `Text B`)) %>%
-  arrange(desc(max_n))
-
-word_comparison_tbl
-
-word_plot_data <- word_comparison_tbl %>%
+  arrange(desc(max_n)) %>%
   slice_head(n = plot_n_words) %>%
-  pivot_longer(
-    cols = c(`Text A`, `Text B`),
-    names_to = "doc_title",
-    values_to = "n"
-  ) %>%
-  mutate(word = fct_reorder(word, n, .fun = max))
+  select(word)
+
+top_words
+
+word_plot_data <- word_counts_normalized %>%
+  semi_join(top_words)
+  mutate(word = fct_reorder(word, relative_freq, .fun = max))
 
 word_plot_data
 
