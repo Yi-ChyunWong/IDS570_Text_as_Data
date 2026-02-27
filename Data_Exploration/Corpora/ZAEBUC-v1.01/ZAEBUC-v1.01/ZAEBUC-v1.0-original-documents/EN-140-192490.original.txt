@@ -1,0 +1,14 @@
+#Anon_ID	192490
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	GEN-140
+#Section	44
+#Handwritten	0
+#DateAdded	2019-09-02 08:32:40
+#DateLastSaved	2019-09-02 09:01:57
+#Topic	Social Media
+#Answer
+ One of the important things in our life now is social media, Social media has many positive and negative affects.On the positive side, people can communicat from many places and countries,chating,doing jobs and some time if the person use this technology in a right way it will save his time and labor.In addition there is a negative affects, such as: spend a lot of time using this programs and techenology led to wasting time and be lazy, moreover that will threatens our health like diabetes because they will spend many time sitting without any movment and eating without doing exercises.So every things in our life have advantages and disadvantages but that depends on the user if he used correctly or not, So we have to know how to take advantages of it more than disadvantages.

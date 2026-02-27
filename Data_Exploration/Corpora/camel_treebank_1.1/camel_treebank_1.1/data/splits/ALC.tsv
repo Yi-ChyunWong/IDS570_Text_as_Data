@@ -1,0 +1,17 @@
+file_name	sentence_count	tok_count	word_count	split_type
+CamelTB_ALC_S037_T1_M_Pre_NNAS_W_C	38	893	683	dev
+CamelTB_ALC_S037_T2_M_Pre_NNAS_W_C	23	668	519	dev
+CamelTB_ALC_S038_T1_M_Pre_NNAS_W_C	41	635	492	train
+CamelTB_ALC_S274_T1_F_Pre_NAS_W_H	49	829	600	train
+CamelTB_ALC_S301_T1_M_Pre_NNAS_W_C	33	534	460	train
+CamelTB_ALC_S437_T1_M_Uni_NAS_W_C	67	963	699	train
+CamelTB_ALC_S448_T1_M_Uni_NNAS_W_C	42	641	524	train
+CamelTB_ALC_S496_T1_M_Uni_NAS_W_C	57	832	587	train
+CamelTB_ALC_S498_T1_M_Uni_NAS_W_C	52	723	548	train
+CamelTB_ALC_S505_T1_M_Uni_NNAS_W_C	34	558	462	train
+CamelTB_ALC_S662_T1_F_Uni_NAS_W_H	40	823	611	train
+CamelTB_ALC_S664_T1_F_Uni_NAS_W_H	68	808	631	train
+CamelTB_ALC_S670_T1_F_Uni_NAS_W_H	51	748	580	train
+CamelTB_ALC_S785_T2_F_Pre_NAS_W_H	47	868	643	train
+CamelTB_ALC_S793_T1_F_Pre_NAS_W_H	41	739	572	test
+CamelTB_ALC_S799_T1_F_Pre_NAS_W_C	44	785	619	test

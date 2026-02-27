@@ -1,0 +1,14 @@
+#Anon_ID	83847
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai emirate, outside the city
+#Campus	DXB
+#Course	GEN-140
+#Section	510
+#Handwritten	0
+#DateAdded	2019-09-02 15:18:01
+#DateLastSaved	2019-09-02 15:42:22
+#Topic	Social Media
+#Answer
+Social media plays a huge role in most people's lives no matter how old or young. It has both negative and postive effects to individuals and the society. For some individuals, the use of social media is a means of communication between one another and way to feel connected with the rest of the world. However, it sometimes becomes harmful to these individuals because they become addicted to this form of communication and disconnect themselves from the outside world. Social media has opened new doors for corruption in the society because individuals can commit crimes whether it is theft or cyberbullying, they can do it anonmously, therefore allowing more and more people in the society to become corrupted. So, the actions of these individuals on social media affects the society entirely, either positively or negatively.  

@@ -1,0 +1,14 @@
+#Anon_ID	98853
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Abu Dhabi emirate, outside the city
+#Campus	DXB
+#Course	GEN-140
+#Section	512
+#Handwritten	0
+#DateAdded	2019-09-08 09:37:06
+#DateLastSaved	2019-09-08 10:03:08
+#Topic	Development
+#Answer
+21st century has lots of developments such as: architectures, technology, and health fields. these are the most important developments in the UAE nowadays.  the most important one is technology developments wich improve our industry in UAE, and we use technology a lot in our life for example in schools, university, and hospitals. the technology becames part of our lifes we cant live without. technology makes our life much more easier than before because everything we need is available on smart phones, smart cars, even the smart homes wich helps us alot. on the other hand we have the architectures and how it developed over the years by bulding something uniqe, beutiful,and symbolizing something. however, UAE has the amaizing buldings because of new bulding materials, and of course by using technology.  furthermore, health fields has recognizable improvments in treatments and surgery. In the soon future there will be robots in surgery room to help doctors and doing a surgery instead of humans. living in the center of technology makes our lifes easy.

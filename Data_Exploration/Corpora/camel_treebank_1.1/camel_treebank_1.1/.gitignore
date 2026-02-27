@@ -1,0 +1,6 @@
+.DS_Store
+venv/
+__pycache__/
+data/data_splits/
+*.zip
+zip_commands.txt

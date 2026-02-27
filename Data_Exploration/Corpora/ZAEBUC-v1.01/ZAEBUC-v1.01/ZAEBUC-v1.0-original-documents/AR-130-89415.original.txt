@@ -1,0 +1,14 @@
+#Anon_ID	89415
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Dubai city
+#Campus	DXB
+#Course	ARA-130
+#Section	524
+#Handwritten	0
+#DateAdded	2019-08-29 11:10:49
+#DateLastSaved	2019-08-29 11:54:55
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+لمواقع التواصل الاجتماعي اثر كبير في حياتنا، فهي اساس التطور. والمجتمع يتطور بتطورها 

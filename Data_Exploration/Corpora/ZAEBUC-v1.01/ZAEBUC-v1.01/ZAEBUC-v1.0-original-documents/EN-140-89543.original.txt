@@ -1,0 +1,14 @@
+#Anon_ID	89543
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	520
+#Handwritten	0
+#DateAdded	2019-09-12 15:17:37
+#DateLastSaved	2019-09-12 15:34:08
+#Topic	Social Media
+#Answer
+ In our generation, people and mostly the younger ones use social media more than communicating with people around them. The social media has a huge impact on each and every individual. It all depends on how they use it in their daily lives. Many users benefit alot from it while others do not. For example, many people follow these influencers that might help them be more confident about themselves such as how to communicate with others or what is trending now whether its in fashion or some delicious food recipes. However, the younger ones get influenced by them in a different way that it might do them harm instead of helping them. For instance, if a kid watches videos on youtube of people doing illegal activities such as, ruining the government properties or destroying someone's belonging as a form of entertainment, this kid might do the exact same behaivior which will lead to parents punishing the child for these mad behaiviors. Social media and social media influencers should have an great impact and be a way of guiding people to do better in their lives. Parents should be more careful about how their kids use the social media for communicating instead of communicating with people around them.

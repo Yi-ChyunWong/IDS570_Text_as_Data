@@ -1,0 +1,14 @@
+#Anon_ID	91113
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Umm Al Quwain 
+#Campus	DXB
+#Course	GEN-140
+#Section	512
+#Handwritten	0
+#DateAdded	2019-09-08 09:38:00
+#DateLastSaved	2019-09-08 10:05:42
+#Topic	Development
+#Answer
+    The UAE is one of the most countries that uses technology and artificial intellegince a lot. This is very important for the level of the country especially from the economic side. Nowadays, the most important development in the UAE is using artificial intellegince in everything. Artificial intellegince is really important for the future and it is connected to all jobs.  Most students study this major when they join the university. However, this major needs a lot of hard work because it is related to engineering and technology.        On the other hand, I joined Zayed University and this university does not have this major but I am sure that after few years all the universities in the UAE will include artificial intellegince major. Artificial intellegince can develop our knowledge and skills which improve our future.                      

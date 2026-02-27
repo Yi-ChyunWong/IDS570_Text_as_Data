@@ -1,0 +1,14 @@
+#Anon_ID	81912
+#Gender	Male
+#School_Type	Private
+#School_Language	English
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	ARA-130
+#Section	N/A
+#Handwritten	0
+#DateAdded	2019-09-09 09:52:47
+#DateLastSaved	2019-09-09 10:53:15
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+اكما نرا هذه الايام في وسال الاجتماعي الفرد والمجتمع يتاثرون مع بعض وتنتشر  اخبار غير صحيحه .والنعزال الشعوري 

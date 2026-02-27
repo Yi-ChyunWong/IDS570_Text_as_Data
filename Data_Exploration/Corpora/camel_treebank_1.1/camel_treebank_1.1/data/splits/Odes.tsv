@@ -1,0 +1,11 @@
+file_name	sentence_count	tok_count	word_count	split_type
+CamelTB_Odes_1_Imru_al-Qais	78	1077	792	train
+CamelTB_Odes_2_Tarafah_ibn_al-Abd	120	1681	1213	train
+CamelTB_Odes_3_Al-Harith_ibn_Hilliza_al-Yashkuri	82	960	707	dev
+CamelTB_Odes_4_Zuhayr_bin_Abi_Sulma	62	873	637	test
+CamelTB_Odes_5_Amr_ibn_Kulthum	103	1179	868	train
+CamelTB_Odes_6_Antarah_ibn_Shaddad	89	1134	830	train
+CamelTB_Odes_7_Labid_ibn_Rabiah	88	1154	785	train
+CamelTB_Odes_8_Al-Asha	66	918	676	train
+CamelTB_Odes_9_Abid_Ibn_Al-Abras	46	483	348	dev
+CamelTB_Odes_10_Al-Nabigha_Al-Dhubiyani	50	711	524	test

@@ -1,0 +1,14 @@
+#Anon_ID	83847
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai emirate, outside the city
+#Campus	DXB
+#Course	ARA-130
+#Section	505
+#Handwritten	0
+#DateAdded	2019-09-04 08:42:05
+#DateLastSaved	2019-09-04 09:25:07
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+ان للتواصل الاجتماعي الكثر من الايجابيات والسلبيات و من الايجابيات انه 

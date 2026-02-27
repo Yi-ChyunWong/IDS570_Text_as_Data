@@ -1,0 +1,14 @@
+#Anon_ID	85999
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Abu Dhabi emirate, outside the city
+#Campus	AUH
+#Course	GEN-140
+#Section	7
+#Handwritten	0
+#DateAdded	2019-09-02 09:53:52
+#DateLastSaved	2019-09-02 10:16:45
+#Topic	Social Media
+#Answer
+Social media is a one of the most important parts of an individual's life, and is still growing at a rapid rate, in which it allows people to easily communicate with one another, globally, within a press of a button.  Some people would say social media is ruining human interaction, and some people might agree with such statement, but one cannot dismiss the fact that it made communication simple and so much easier. Websites such as instagram, Twitter and even facebook have contributed to making connections with people around the world, and made communcation with families, friends and loved ones an extremely easy task.  Leaving the socializing part aside, social media has also contributed for corporates and companies to advertise and sell their goods through the internet, and an important part of selling such items is through famous names. You would be surprised at the effect of endorsing a product through famous people, a single picture of an endorsed product next to celebrity can change everything.   In addition to that, big names can earn a considerably huge amount of money through endorsing a product, or being an ambassador to said item, whether it was through pictures, blogs, or even a podcast introduing the product to the public.

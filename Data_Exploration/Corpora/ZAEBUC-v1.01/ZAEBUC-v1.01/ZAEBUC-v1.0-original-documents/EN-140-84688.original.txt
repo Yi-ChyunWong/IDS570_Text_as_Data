@@ -1,0 +1,14 @@
+#Anon_ID	84688
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	513
+#Handwritten	0
+#DateAdded	2019-09-08 11:04:11
+#DateLastSaved	2019-09-08 11:27:32
+#Topic	Social Media
+#Answer
+Nowadays, social media has become widespread and a crucial method of communication, as it affects society and its members in various ways. First of all, since everyone has access to these social applications, they can be used to spread awareness. For example, when the Amazon Rainforest was set on fire, many people started to spread awareness, and set up donations for reforestation and to the indegenious people who lost their homes. This way, social media helped people save the environment and people's lands through crisis aid websites, such as Go Fund Me. Also, social media can be used for many educational purposes. Many academic websites make tests and provide knowledge or books to people around the world, thus improving people's analytical and thinking skills. Although, there are many benefits to social media, spending too much time on it can cause psychological issues. For instance, many people who start blogs may get negative comments from others, which may sometimes lead to self hatred. Also in extreme cases, the person may develop anxiety or depression. It is best to use social media for the right purposes, so everyone could live healthily and enjoy what these sites have to offer. 

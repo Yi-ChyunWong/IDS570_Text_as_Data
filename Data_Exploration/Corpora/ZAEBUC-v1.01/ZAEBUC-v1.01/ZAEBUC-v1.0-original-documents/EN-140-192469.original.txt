@@ -1,0 +1,14 @@
+#Anon_ID	192469
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	GEN-140
+#Section	3
+#Handwritten	0
+#DateAdded	2019-09-01 11:25:01
+#DateLastSaved	2019-09-01 11:39:22
+#Topic	Social Media
+#Answer
+Social media has been changed every years. It's important to our life. Forthermore, social media is including,YouTube, Instgram, Snapchat and Whatsapp.These appilication have many different impact for individuals and society.However, social media is wasting their time and socail media can made a lot of cyberbulling.  First of all, socail media plays a big role of our time. It's wasting our time to do our activites. For example, when you 

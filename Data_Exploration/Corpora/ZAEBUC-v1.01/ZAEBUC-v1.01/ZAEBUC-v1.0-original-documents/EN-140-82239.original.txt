@@ -1,0 +1,14 @@
+#Anon_ID	82239
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	522
+#Handwritten	0
+#DateAdded	2019-08-28 09:48:02
+#DateLastSaved	2019-08-28 10:16:23
+#Topic	Social Media
+#Answer
+What is social media? Social media is a form of networking that occurs through social applications like instagram, twitter, facebook, and many others. Social media can be used for many different reasons; from advertising to simply keeping in touch with friends. Nowadays, social media has become an essential part of people's lives. Different people use social media for a variety of reasons, it can be used to share parts of an individual's lives with their friends, getting to know different people from around the world, and some companies are able to market their products to potential customers. Though social media might have many positive attributes, it also has a bad side. Social media makes the spread of information faster and more efficient, but it could be used as a weapon to spread false information, and some people that share their lives or photos on social media may be easy targets to predators and bullies. It could affect an individual in a very negative way if they share too much with strangers on social media, and it could also affect society by the spread of false information. I think that despite its negative aspects, social media can be used to influence society in a positive way by helping people get together, helping small companies grow, and another amazing thing that I've witnessed on twitter is that many people in desperate need of help are able to reach out to each other during hard times like people in urgent need of medical help, money, or finding a missing child. Social media if used the right way can be used to better society and its individuals.

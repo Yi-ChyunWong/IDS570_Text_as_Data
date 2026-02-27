@@ -1,0 +1,14 @@
+#Anon_ID	84792
+#Gender	Female
+#School_Type	Government
+#School_Language	English
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	GEN-140
+#Section	27
+#Handwritten	0
+#DateAdded	2019-09-05 12:29:00
+#DateLastSaved	2019-09-05 12:49:30
+#Topic	Social Media
+#Answer
+Centuries ago communicating with others was very hard and complicated. Nowadays we have technology and multiple ways to communicate with others specially through various apps of social media. Social media hase many advantages and disadvantages depending on how it is used, social media has a huge affect on individuals and societies as a whole. It helps famillies and friends etc to communicate by using variouse apps like Skype. On the other hand socila media has disadvantages as well that affects individuals and the society through bullying, spreading fake news that causes problems between different communities even countries which leads the society to falling apart. Social media hase a huge impact on our daily lives to follow up on daily news, following other influencers for motivation etc. Nowadays we all use different types of social media for variouse reasons and one of the most main reasons is to communicate with others to follow up with them specially for long distance between each other. In conclusion social media is very important for the majority of our society and is very much used to communicate and to remain updated for variouse occasions to know what to expect in the next coming day,month,year etc. 

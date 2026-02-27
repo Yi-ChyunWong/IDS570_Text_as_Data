@@ -1,0 +1,14 @@
+#Anon_ID	192582
+#Gender	Female
+#School_Type	Government
+#School_Language	English
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	ARA-130
+#Section	7
+#Handwritten	0
+#DateAdded	2019-08-28 09:46:26
+#DateLastSaved	2019-08-28 10:22:27
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+    وسائل التواصل الاجتماعي،اسهل و اسرع وسيله للتواصل للاصدقاء و الاهل.  ويمكن نشر فيها الصور و الفيديوات،ولكن لها تأثيرات على المجتمع و الانسان عندها  يستخدمه بطريقه خاطئه في نشر الصوره الخاطئه و استعمال الوسائل بطريقه مؤذيه   للاخرين وايضا استعاملها بكثره و لساعات طويله.

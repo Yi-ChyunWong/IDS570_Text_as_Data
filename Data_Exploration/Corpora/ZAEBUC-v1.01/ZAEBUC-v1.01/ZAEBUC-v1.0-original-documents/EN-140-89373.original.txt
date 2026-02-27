@@ -1,0 +1,14 @@
+#Anon_ID	89373
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	GEN-140
+#Section	31
+#Handwritten	0
+#DateAdded	2019-09-03 08:16:33
+#DateLastSaved	2019-09-03 08:37:52
+#Topic	Social Media
+#Answer
+Social Media and how it affects Individuals and Society     Social Media is a platform that almost every individual uses, whether you're a teenager, or an adult, we all use it. Twitter, Skype, Snapchat and Instagram are some examples of social media, but what affect does it have on us individuals? What makes us 'addicted' to our phones to the point where we have to check it so often?     People are always looking for ways to comminicate with each other, nowadays barely anyone has the time to meet up with friends or family and they use an alternative such as Skype, a video calling chat which allows us individuals to comminicate with others via tablet or smartphone. I believe that people don't see the importance of 'get togethers' or gatherings which is the main thing that helps us bond with each other. Every day a new social media app becomes popular and everyday we draw ourselves away from the idea that it will make us check our phones more often and it could lead to a lot of negative outcomes to our daily life.    

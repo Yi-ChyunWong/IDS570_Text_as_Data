@@ -1,0 +1,14 @@
+#Anon_ID	98023
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	512
+#Handwritten	0
+#DateAdded	2019-09-08 09:37:29
+#DateLastSaved	2019-09-08 09:52:53
+#Topic	Social Media
+#Answer
+c)   Especially in the last decade, social media has started to have a huge impact on society in the daily lives of people. These impacts can be both positive and negative. An example of a positive impact is the improvement in communication. Communication as a whole became much more easier and with the help of social media people can now  talk to each other even if they are in different countries as if they were actually face to face . Social media has also helped with raising awairness in certain subjects around the world. For example, with the help of social media more people are aware of issues like animal cruelty and social media helps with giving people solutions to help aid the problem, like boycotting brands that are not cruelty-free. However, social media also has some negative impacts on individuals and society. For example, social media provided people with another platform for bullying which thankfully a lot of companies are now trying to take proper measures in order for online bullying to stop. Instagram, for example, is starting to enforce a system where comments can be censored and certain words and phrases cannot be used. This is useful as it would prevent bad comments from reaching certain individuals and therefore prevents people from suffering from certain mental illnesses like depression, which have increasingly surfaced as a result of online bullying. Therefore, the use of social media has affected society at a large scale, where a lot of their decisions are impacted by their use of these platforms, both in a positive and negative way.   

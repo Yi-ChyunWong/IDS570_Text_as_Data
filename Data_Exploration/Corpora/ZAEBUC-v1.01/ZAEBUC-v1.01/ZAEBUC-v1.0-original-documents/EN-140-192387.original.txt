@@ -1,0 +1,14 @@
+#Anon_ID	192387
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	GEN-140
+#Section	3
+#Handwritten	0
+#DateAdded	2019-09-01 11:23:57
+#DateLastSaved	2019-09-01 11:45:33
+#Topic	Development
+#Answer
+Nowadays, the rate of the fire accidents in bulding are dicrease becouse of the safe soucity. In each room in the bulding or the houses has a fire notefecation. And there is equepment to off the fire and first aid in all the floors. In onther hand, Also the streat has save soucity by the roles to orgnaized cars and the wakers, and put cameras on singel streat to help and takes avedance about car or streat accident. UAE government develops the bulding and the houses to save people and inclode life.

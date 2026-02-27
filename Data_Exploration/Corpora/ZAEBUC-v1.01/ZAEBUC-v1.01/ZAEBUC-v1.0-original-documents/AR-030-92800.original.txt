@@ -1,0 +1,14 @@
+#Anon_ID	92800
+#Gender	Female
+#School_Type	Government
+#School_Language	English
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	ARA-030
+#Section	N/A
+#Handwritten	0
+#DateAdded	2019-08-29 09:39:33
+#DateLastSaved	2019-08-29 10:37:35
+#Topic	التسامح
+#Answer
+ يجب على كل فرد ان يساهم في التسامح و حث الآخرين على هذا التصرف الايجابي،على المجتمع ان يعزز من ثقافة التسامح في المجتمع من خلال اطلاع الناس على مدى أهميه هذا الشيء ان دوله الامارات تشهد اكبر تطور حظاري لم تشهد في مثله من قبل و تتم وسائل التواصل الاجتماعي في تاثير على الفرد و المجتمع

@@ -1,0 +1,14 @@
+#Anon_ID	80566
+#Gender	Female
+#School_Type	Private
+#School_Language	Arabic
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	519
+#Handwritten	0
+#DateAdded	2019-08-29 13:46:01
+#DateLastSaved	2019-08-29 14:14:04
+#Topic	Social Media
+#Answer
+       Social Media Has evolved termendously throughout the years and became one of the essentials in an individual's life which they can't live without,People spend most of their time using social media whether it is to waste time, get to know people or culture from around the world,There are a variety of social media Platforms that people can use such as Facebook,Twitter,Instagram,Telegram etc.         Social media affects people greatly whether its an positive or negative effect depending on how they use it on daily basis, There are people who get addicted to socialmedia to the extent where they drop all the necessary stuff they should do or care about like:Work,Family,Friends and get immersed in social media and live in virtual life to forget their Real life Hardships whether it's a bad job,a failed marriage or to get temporarly away from life.         Social media can also save people alot of time that they could have taken hours ,People get to know people around the world,Run everyday errands easily, Buy things without having to go outside,Text family and friends everyday,make scheduales that are efficent and easier to use for daily basis.      

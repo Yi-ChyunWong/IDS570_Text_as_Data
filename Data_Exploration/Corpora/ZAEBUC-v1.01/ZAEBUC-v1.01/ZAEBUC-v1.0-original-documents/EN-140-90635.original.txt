@@ -1,0 +1,14 @@
+#Anon_ID	90635
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	514
+#Handwritten	0
+#DateAdded	2019-09-08 13:40:46
+#DateLastSaved	2019-09-08 13:50:37
+#Topic	Social Media
+#Answer
+c) Social media plays a massive role in shaping individuals in our society. Back in the day, social media was either non existent or not very common; people were very social and engaged in everyday activities and kept eachother company. However, now people all around the world of all ages participate in social media. This can be both good and bad. For example, social media allows people to access infromation faster than ever before and allows global connection for business. Social media has a downside as it makes people less social, it can be addictive. People will decide to stay in their rooms to surf the web and go on many variety of apps instead of going out and meeting new people. This negatively affects our society. Social media is a very good concept if you use it wisley, if you do it will make an idividual smarter and can create frienships around the world. Although if it is used in a bad way or if it does get to a point where it is getting addictive it will half a bad impact on the individual as it is pulling them away from the reality of life and detaches them from society. 

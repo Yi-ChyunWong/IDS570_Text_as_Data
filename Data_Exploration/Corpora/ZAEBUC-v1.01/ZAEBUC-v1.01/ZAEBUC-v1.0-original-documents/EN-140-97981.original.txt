@@ -1,0 +1,14 @@
+#Anon_ID	97981
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	514
+#Handwritten	0
+#DateAdded	2019-09-08 13:40:48
+#DateLastSaved	2019-09-08 13:54:49
+#Topic	Social Media
+#Answer
+Social media has a great impact on the individual and society. It helped nations to communicate with others. Although social media has benefited the world, it still has its negatives and bad effects on others. So many societies benefited from social media because it helped the schools and students on their studies, it helped researchers on their experiments, and mostly it helped in communicating and socializing and making new friends. Despite the positives, it also has a bad side that sometimes could put the user in danger. Nowdays the technology became more powerful than before and many people are taking advantage from those developments and using them in the wrong way. There are many examples of those people like the hackers, they could hack into your devices and your social media accounts and steal your personal information and starts to threaten you. Those hackers could also pretend to be someone they aren't and mess around with kids for example. Kids are a really easy target, so those hackers use them and take advantage of them. Now regarding those hackers and technology thiefs, they made the police departments all around the world to have cyber security and make awareness campaigns and take those hackers down using the hackers methods and techniques, and makes the hacker feel like a victim.

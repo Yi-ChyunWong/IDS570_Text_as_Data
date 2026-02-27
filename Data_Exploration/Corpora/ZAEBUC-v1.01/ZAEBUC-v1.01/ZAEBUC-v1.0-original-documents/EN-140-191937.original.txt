@@ -1,0 +1,14 @@
+#Anon_ID	191937
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	502
+#Handwritten	0
+#DateAdded	2019-08-28 10:37:09
+#DateLastSaved	2019-08-28 10:53:31
+#Topic	Development
+#Answer
+i think the most important development in the  UAE  at this moment is development in education and in health ,medicals and another things 

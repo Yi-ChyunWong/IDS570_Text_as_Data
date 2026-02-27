@@ -1,0 +1,14 @@
+#Anon_ID	289115
+#Gender	Male
+#School_Type	Government
+#School_Language	Arabic
+#Address	Abu Dhabi emirate, outside the city
+#Campus	AUH
+#Course	ARA-130
+#Section	902
+#Handwritten	0
+#DateAdded	2019-08-28 09:44:53
+#DateLastSaved	2019-08-28 10:35:42
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+أن وسائل التواصل الاجتماعي هو آهم تواصل بين الاسرة المجتمع على كل الانحاء الدول ، وقد تكون تأثير هم من المجتمع . مثل : كالاسرة أو عمل تتطوعي ، وآما فرد يكون تأثير هم كبير . مثل واتساب ، سناب جات أو انستغرام. 

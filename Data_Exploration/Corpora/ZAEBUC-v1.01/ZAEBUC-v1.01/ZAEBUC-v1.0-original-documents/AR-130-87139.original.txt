@@ -1,0 +1,14 @@
+#Anon_ID	87139
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Sharjah
+#Campus	DXB
+#Course	ARA-130
+#Section	505
+#Handwritten	0
+#DateAdded	2019-09-04 08:44:02
+#DateLastSaved	2019-09-04 09:22:26
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+التواصل الإجتماعي له تأثير شديد على المجتمع و منها آثار سلبية و إيجابية عديدة . ولذالك يجب على الإنسان الحذر من المواقع التي  تذلف العقل ويتقربون من المواقع المفيدة و الإيجابية 

@@ -1,0 +1,14 @@
+#Anon_ID	121991844
+#Gender	Female
+#School_Type	Korean High School 
+#School_Language	Korean
+#Address	Abu Dhabi emirate, outside the city
+#Campus	AUH
+#Course	GEN-140
+#Section	1
+#Handwritten	0
+#DateAdded	2019-09-01 09:05:15
+#DateLastSaved	2019-09-01 09:31:18
+#Topic	Social Media
+#Answer
+C;How do social media affect individauls and society?  Nowadays,almost people have telephones and can use internet  By using social media,we can interact with others and find information about everythings.  However,despite these sceptical views,some opponents believe that social media makes people robotic and make become nerds.  In the past,people would contact with others face to face or wrote volumes of letters.But now people use instagram or facebook and just text some emojis with staring down their phones.This could be said people become sticks and unnatural.  whereas,in my opinion,although there are some drawbacks in social media,it is brought forth good fruites on society.Consider about comfortable about get many information in social media,including but not limited different culture,news,politics,travel information etc...its connect with all.I cannot imagine my life without phones.  Society will develop forever and then we should use that technology.Do not confined in old thoughts,and do not abandon new ideas.   

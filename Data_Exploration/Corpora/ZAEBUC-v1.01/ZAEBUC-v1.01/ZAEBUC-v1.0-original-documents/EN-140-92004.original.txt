@@ -1,0 +1,14 @@
+#Anon_ID	92004
+#Gender	Female
+#School_Type	Private
+#School_Language	Arabic
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	523
+#Handwritten	0
+#DateAdded	2019-09-01 11:31:33
+#DateLastSaved	2019-09-01 12:00:30
+#Topic	Social Media
+#Answer
+Did you ever think that socialmedia well play a big roll in societies ?  Social media plays a huge roll in these days ,  peolpe nowadays communicate with others in social media rather than talking to individuals in normal face to face . Moreover social media can impact negatively to students by dropping their grades lower than the percentage  and it enables cheating in exams , which many student will find it a good way to process ,  as an student you should balance between your studies and your free time .  Additionally social media will affect individuals by shairing their personal information with other what might leads to the lack of privacy .  

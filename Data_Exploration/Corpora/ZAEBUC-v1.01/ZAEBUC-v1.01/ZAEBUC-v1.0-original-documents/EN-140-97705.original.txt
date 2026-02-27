@@ -1,0 +1,14 @@
+#Anon_ID	97705
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Abu Dhabi emirate, outside the city
+#Campus	AUH
+#Course	GEN-140
+#Section	24
+#Handwritten	0
+#DateAdded	2019-09-04 14:01:16
+#DateLastSaved	2019-09-04 14:27:15
+#Topic	Social Media
+#Answer
+Social media and its affects on society  Nowadays, social media has taken over society. All members of society whether they're young or old can have access to the internet. This has caused a huge change in society in the past ten years. People's interactions, habits and daily experiences have witnessed an enourmous change. As social media applications like; Facebook, Instagram and Youtube have grown bigger, they have been the most effective form of spreading awareness of the latest news of the community and its people. Eventhough social media can be convenient in this department, it can also be a source of problems for the majority of people.  Social media is open and available to everybody. Some might argue about the issue in this case. Here, the problem is its over-accessability. Children, teenagers and even the mentally ill can easily misuse these platforms by bullying others, blackmailing and other misconducts that are legally considered of high priority crimes. Parents might also argue that this wide-range accessability leaves their children with screen addiction problems. Therefore, social media also affects family bonds.   The spread of these multi-million social media platforms may have started for a good cause. However, we tend to over-relay which is where the problem starts.  

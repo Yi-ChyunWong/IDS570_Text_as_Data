@@ -1,0 +1,14 @@
+#Anon_ID	189799
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	502
+#Handwritten	0
+#DateAdded	2019-08-28 10:38:07
+#DateLastSaved	2019-08-28 10:48:28
+#Topic	Social Media
+#Answer
+This days social media become spread like a disease, kids and adults use social media like they drink a water!! this is affecting a lot in or society. people are not meeting or siting with each other they only chating and 

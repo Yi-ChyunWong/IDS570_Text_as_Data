@@ -1,0 +1,14 @@
+#Anon_ID	292703
+#Gender	Male
+#School_Type	Government
+#School_Language	English
+#Address	Abu Dhabi emirate, outside the city
+#Campus	AUH
+#Course	ARA-130
+#Section	902
+#Handwritten	0
+#DateAdded	2019-08-28 09:57:09
+#DateLastSaved	2019-08-28 10:36:50
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+هنالك وسائل عدة للتواصل الاجتماعي

@@ -1,0 +1,14 @@
+#Anon_ID	84687
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	ARA-130
+#Section	505
+#Handwritten	0
+#DateAdded	2019-09-04 08:41:34
+#DateLastSaved	2019-09-04 09:26:53
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+     .يختلف آراء الجميع عن التواصل الإجتماعي بسبب كثرة تآثيراته السلبية والإيجابة      فالتواصل الإجتماعي يفتح أبوب جديدة للتواصل بين أفراد المجتمع ولكن من الممكن أن تتجه هذه الأبواب إلى طرة مضرة من غير التوعية عن أخطارها.  

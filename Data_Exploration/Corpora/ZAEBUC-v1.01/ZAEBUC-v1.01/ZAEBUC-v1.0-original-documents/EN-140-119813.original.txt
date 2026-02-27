@@ -1,0 +1,14 @@
+#Anon_ID	119813
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	GEN-140
+#Section	3
+#Handwritten	0
+#DateAdded	2019-09-01 11:23:56
+#DateLastSaved	2019-09-01 11:31:15
+#Topic	Social Media
+#Answer
+Social media has advantage and dis advantage that can effect in our society.Now a days people read there news frome the social media and they learn also social media has a bid effect on people and childrren .Children learn from celebrityes people learn from each other . 

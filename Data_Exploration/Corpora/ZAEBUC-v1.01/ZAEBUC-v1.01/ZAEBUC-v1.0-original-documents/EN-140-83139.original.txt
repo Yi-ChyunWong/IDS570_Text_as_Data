@@ -1,0 +1,14 @@
+#Anon_ID	83139
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	512
+#Handwritten	0
+#DateAdded	2019-09-08 09:37:08
+#DateLastSaved	2019-09-08 10:07:07
+#Topic	Social Media
+#Answer
+social media has progressed throught the years and is one of the most used platforms in the world. it can either have a positive impact on individuals and society or a negative one.   first of all, one of the most useful thing about social media is that it is one of the best ways to connect with family and meet new people who have the same intrests as you. moreover, news spread like fire in social media which can be beneficial to individuals since it informs people about things like weather updates and whats happening around the world.  second of all, because social media has some useful things, it also has negative impact like cyberbullying. Which can cause a person to be depressed or even commit suicide. secondly, social media can be higly addictive becuase people are worried about their reputation and what others think of them which can lead them to not be productive and having no privacy.  in conclusion, socail media can be beneficial if it was used in the right way like commmunicating with family and friends and looking for updates other than cyberbullying and keeping no privacy to yourself. 

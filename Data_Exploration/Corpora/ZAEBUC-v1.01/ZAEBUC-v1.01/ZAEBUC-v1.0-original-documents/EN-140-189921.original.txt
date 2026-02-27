@@ -1,0 +1,14 @@
+#Anon_ID	189921
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Fujairah
+#Campus	DXB
+#Course	GEN-140
+#Section	502
+#Handwritten	0
+#DateAdded	2019-08-28 10:33:06
+#DateLastSaved	2019-08-28 10:50:47
+#Topic	Social Media
+#Answer
+Social media is applications that people is able to share or create content and participate in networking. social media has a lot affect in individuals and society.There are several affects, one of the most important affect is that knowing people all over the world. 

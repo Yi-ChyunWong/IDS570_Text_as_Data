@@ -1,0 +1,14 @@
+#Anon_ID	90858
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	514
+#Handwritten	0
+#DateAdded	2019-09-08 13:40:44
+#DateLastSaved	2019-09-08 13:57:50
+#Topic	Social Media
+#Answer
+C)  Social media is a great way in which the world communicates today, it encourages globalisation and promotes communication between people no matter where they are in the world. It also helped society evolve at a faster rate and many benefits come along with this such as being more aware and understanding cultures at a deeper level then one would normally. Before the internet and social media communicating with people who where far away took days - if not weeks. The telegram was one of the inventions developed in the late 18th century that helped inspire receiving important messages fast which in turn resulted talking to someone only requiring the push of a button in nowadays. However with benefits also comes disadvantages; the media is a poweful assest that contributes to peoples perception of certain topics and although some of the information on social media might be false or incorrect it changes peoples opinions and many are manipulated by mass media. Furthermore social media presents unrealistic goals of how people should look and lead their lives which may affect an indvidual negatively as people can spread hate easily due to the fact that they can hide behind a screen which can result in depression, anxiety and many more issues.

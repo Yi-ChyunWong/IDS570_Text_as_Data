@@ -1,0 +1,14 @@
+#Anon_ID	90397
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	514
+#Handwritten	0
+#DateAdded	2019-09-08 13:41:00
+#DateLastSaved	2019-09-08 13:57:50
+#Topic	Social Media
+#Answer
+Social media affects individuals and socities greatly, whether that be in a negative or a positive way. This is due to the the prevelance and signifcance of social media in our daily lives; most people would say that social media is almost replacing major newspaper companies which is evidenced by companies shift into the digital age with known newspapers such as The Telegraph becoming available on popular social media such as Snapchat. In this way, social media has a vast affect amongst people of all demographics, especially young adults. As well as spreading global news, social media is effective in joining communties together and creating subcultures - it can be used to communicate with family memebers and friends as well as strangers with similar intrests and lifestyles. Moreover, social media has made an abundance of possiblties more realistic and tangible as it can also be used in an educational way. Platforms such as Youtube have many educational resources which have personally helped me throughout highschool with subjects ranging from history to chemisty, there were also instances teachers would use these videos in class to help explain a concept in a easy and simplifed way. For this reason it is hard to deny that social media has a great impact on us as a society.

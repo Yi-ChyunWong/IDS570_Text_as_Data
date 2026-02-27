@@ -1,0 +1,14 @@
+#Anon_ID	97761
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	526
+#Handwritten	0
+#DateAdded	2019-08-29 08:30:30
+#DateLastSaved	2019-08-29 08:50:50
+#Topic	Social Media
+#Answer
+Social media nowadays took a huge place in our life. It affect us in both good and bad way, however it depends on how the individual use it. Social media is a good way to know about the worldwide news and to contact with people all over the world and thats one of the benefits we can get it from social media. In my point of view, I think that social media is an interesting thing which i made some online friends and they took an important place in my life and I have to talk to them everyday. On the other hand, some uses social media in a bad way. Such as, sharing some videos and pictures which can harm people and themselves, and that will affect in a bad way for sure. Although every problem should have a solution, and some solutions could be that to manage time for these applications and monitor people who once used it in a bad way. To conclude, everyone should agree that many people in society at least know about social media if they don't use it. It benefits more than it harms. School and Universties use some applications for their students to help them study and contact them whenever they have some difficulties. 

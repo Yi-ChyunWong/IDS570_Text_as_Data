@@ -1,0 +1,14 @@
+#Anon_ID	85891
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	ARA-030
+#Section	8
+#Handwritten	0
+#DateAdded	2019-08-29 09:40:12
+#DateLastSaved	2019-08-29 10:12:04
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+التواصل الاجتماعي من اخطر الاشياء لانها تبعدنا عن والدينا و لا تعطينا الوقت الكافي للجلوس معهم وذالك يوثر في عقولنا و تصرفاتنا بشكل سلبي وليس جيدا ابدا. لذالك يجب علينا ان لا نستخدمها كثيرا وننتبه لها.

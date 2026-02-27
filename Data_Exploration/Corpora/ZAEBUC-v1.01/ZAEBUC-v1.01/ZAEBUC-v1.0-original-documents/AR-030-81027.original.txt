@@ -1,0 +1,14 @@
+#Anon_ID	81027
+#Gender	Female
+#School_Type	Government
+#School_Language	English
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	ARA-030
+#Section	7
+#Handwritten	0
+#DateAdded	2019-08-29 13:42:17
+#DateLastSaved	2019-08-29 14:58:47
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+  قام انتشارالوساءل للتواصل الاجتماعية بشكل كبير و هذا اثر على المجتمع بشكل ايجابي و سلبي  من الاثار الايجابي للتواصل الاجتماعي هي التواصل مع الناس بشكل اسهل . و من ال الاثار ال سلبية هيه انتشار الكراهية و الفساد بين الناس.

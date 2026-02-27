@@ -1,0 +1,17 @@
+file_name	sentence_count	tok_count	word_count	split_type
+CamelTB_NT_Matthew_1	27	486	398	dev
+CamelTB_NT_Matthew_2	24	587	470	dev
+CamelTB_NT_Matthew_3	18	400	316	dev
+CamelTB_NT_Matthew_4	26	540	418	dev
+CamelTB_NT_Matthew_5	49	1043	781	train
+CamelTB_NT_Matthew_6	35	843	629	train
+CamelTB_NT_Matthew_7	30	622	487	train
+CamelTB_NT_Matthew_8	35	793	620	train
+CamelTB_NT_Matthew_9	39	847	671	train
+CamelTB_NT_Matthew_10	43	885	677	train
+CamelTB_NT_Matthew_11	31	648	507	train
+CamelTB_NT_Matthew_12	51	1095	860	train
+CamelTB_NT_Matthew_13	59	1296	1000	train
+CamelTB_NT_Matthew_14	37	721	577	train
+CamelTB_NT_Matthew_15	40	824	656	test
+CamelTB_NT_Matthew_16	29	663	529	test

@@ -1,0 +1,14 @@
+#Anon_ID	119813
+#Gender	Female
+#School_Type	Government
+#School_Language	Arabic
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	ARA-130
+#Section	14
+#Handwritten	0
+#DateAdded	2019-09-05 11:54:56
+#DateLastSaved	2019-09-05 12:27:24
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+التواصل الاجتماعي لها سلبيات و ايجابيات لاكن قد تؤثر بطريقه سلبيه اكثر على الفرد.الكثير من الناس يستخدمون التواصل الاجتماعي بطريقه خاطئه. يقتبس الفرد الكثير من التواصل الاجتماعي و يتآثروقد يؤثر عليه بطريقه خاطئه كما ذكرنا .

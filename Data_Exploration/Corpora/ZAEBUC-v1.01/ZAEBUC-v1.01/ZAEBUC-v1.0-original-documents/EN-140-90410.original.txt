@@ -1,0 +1,14 @@
+#Anon_ID	90410
+#Gender	Female
+#School_Type	0
+#School_Language	0
+#Address	0
+#Campus	DXB
+#Course	GEN-140
+#Section	514
+#Handwritten	0
+#DateAdded	2019-09-08 13:40:43
+#DateLastSaved	2019-09-08 14:05:52
+#Topic	Social Media
+#Answer
+      Social media is a worldwide element that mostly everyone having access to it, use. Social media can be a source of distruction to an individual and society, but could also be a point of improvement and inspiration. It all comes down to the way one chooses to use it and how much you let the content affect you.        If used improperly, people's lives could be affected. The expectations that society has put up for individuals ranging from status, to how you should look like, has brought a robotic-like living to our world. With those expectations being brought up, some individuals have made it their life goals to reach them leaving their skills and their talents on hold. With that what one could've invented and improved is lost and society moves hopelessly to the future. Those expectations have also rose the percentage of depression, as he fact that each person is unique in their own way and that there is no uniform to what makes a person great and exceptional, has not been accepted.   

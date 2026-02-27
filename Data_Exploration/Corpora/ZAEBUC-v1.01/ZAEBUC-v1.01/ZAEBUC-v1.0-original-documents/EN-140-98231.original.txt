@@ -1,0 +1,14 @@
+#Anon_ID	98231
+#Gender	Female
+#School_Type	0
+#School_Language	0
+#Address	0
+#Campus	DXB
+#Course	GEN-140
+#Section	530
+#Handwritten	0
+#DateAdded	2019-09-16 15:33:24
+#DateLastSaved	2019-09-16 15:56:24
+#Topic	Social Media
+#Answer
+Social media affects individuals and the society in several ways, both positively and negatively. It all depends on an indivicual's way of using it, some might use it to start a business, just for fun, or even to become an influencer. The way you connect and communicate with others through social media has an affect on you, and the people around you. When one starts a career as an influencer, they choose the path in which they would affect the society and the audience viewing the content. Projecting appropriate content to the audience's age group, with specific interests might positively inspire them to do good, however; creating inappropriate content and views would negatively influence them. For example, young children who follow makeup bloggers would mostly be influenced by them to apply makeup at a young age, in that case, bloggers should be aware of her/his audience's age group. All social media users have different interests, yet most users follow similar accounts for different reasons, some might like the content, or the person behind it, or just because it's trending. Social media apps should have a system for followers, once you start an account you can answer a few questions, which would then make a list with all people who might interest you, and present content appropriate for your age group. To conclude, your intentions and way of using social media reflects on how it's going to affect you and the society. 

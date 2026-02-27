@@ -1,0 +1,14 @@
+#Anon_ID	288874
+#Gender	Male
+#School_Type	Government
+#School_Language	Arabic
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	GEN-140
+#Section	903
+#Handwritten	0
+#DateAdded	2019-09-02 11:23:40
+#DateLastSaved	2019-09-02 11:51:21
+#Topic	Social Media
+#Answer
+emotional imapact people  use social media for many things such as socializing finding and sharing , social media have postive affect on our life like sharing information with the people , learning about the word , get information from google ,shoping and simply as a diversion these are just a few of the ways that social media can improve oeople lives on the other hand social media can cause stress and other negative emotions like  

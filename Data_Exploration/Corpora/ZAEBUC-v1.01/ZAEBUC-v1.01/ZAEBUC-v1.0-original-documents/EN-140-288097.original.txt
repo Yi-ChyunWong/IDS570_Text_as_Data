@@ -1,0 +1,14 @@
+#Anon_ID	288097
+#Gender	Male
+#School_Type	Government
+#School_Language	Arabic
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	GEN-140
+#Section	903
+#Handwritten	0
+#DateAdded	2019-09-02 11:24:29
+#DateLastSaved	2019-09-02 11:54:36
+#Topic	Social Media
+#Answer
+social media has played a big role in influncing the way will live now people aim to show the perfect side of their live in order to share the moments with the other in social madie which in result makes other trying to having same level of life and perfection even if their fiancial level dose not allow them to that .    As a conseequnce of that , society has built an idea that all the celerities in social media have 

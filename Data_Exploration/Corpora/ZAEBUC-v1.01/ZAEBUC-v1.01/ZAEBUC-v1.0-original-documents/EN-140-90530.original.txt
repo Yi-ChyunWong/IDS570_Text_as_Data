@@ -1,0 +1,14 @@
+#Anon_ID	90530
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	526
+#Handwritten	0
+#DateAdded	2019-08-29 08:32:53
+#DateLastSaved	2019-08-29 09:01:33
+#Topic	Social Media
+#Answer
+Social media plays a big role in our daily lives today. People spend most of their time on social media to the point where it has decreased the time people use to communicate with people in real life. This impacts both individuals and the society. Although social media has many disadvantages, it has some advantages and one of them is that it combines all types of media into one platform. People are now more aware of what goes on around the world, this is because they can easily check the news from these applications without having to wait for it to be shown on newspapers and television. Some people also use it to create and start their business which often leads to using it as a form of advertising.  Another advantage is that, communicating with people around the world has become more accessible and easy. They can socialize with friends and family without having to meet them in person and that has disadvantages. People now talk to each other more using social media applications rather than in person, this affects their speaking and communication skills, this also has an effect on their language which affects us as a society.   

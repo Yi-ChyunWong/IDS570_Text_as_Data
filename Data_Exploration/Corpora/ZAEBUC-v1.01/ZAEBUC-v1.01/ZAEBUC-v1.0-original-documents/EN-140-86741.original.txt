@@ -1,0 +1,14 @@
+#Anon_ID	86741
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	512
+#Handwritten	0
+#DateAdded	2019-09-08 09:37:28
+#DateLastSaved	2019-09-08 10:04:41
+#Topic	Development
+#Answer
+  U.A.E has developed drastically over the last few decades from infrastructure to being the home of globaly known businesses. It is still developing even after its huge achivements because we are always aiming to be number one on a global level. Therefore, one of the most imporatant developments in the United Arab Emirates in 2019 is EXPO 2020 that is a huge event that has been in the works since 2015 which will help the U.A.E to become a destination for investors and to help strengthen the relations between U.A.E and other countries. In addition, EXPO 2020 is challanging U.A.E based artists and designers to produce products related to the culture of United Arab Emirates to teach vistors that the U.A.E is drived by its culture in every aspect of the country. In addition, I think that the design and art scene is developing in the U.A.E, meaning that there are more opportunities for designers and artists and more places that showcase art pieces for art enthusaites.

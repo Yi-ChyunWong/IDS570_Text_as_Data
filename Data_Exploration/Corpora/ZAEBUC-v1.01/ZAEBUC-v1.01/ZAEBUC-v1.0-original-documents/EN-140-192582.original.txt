@@ -1,0 +1,14 @@
+#Anon_ID	192582
+#Gender	Female
+#School_Type	Government
+#School_Language	English
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	GEN-140
+#Section	6
+#Handwritten	0
+#DateAdded	2019-09-02 08:33:13
+#DateLastSaved	2019-09-02 08:57:34
+#Topic	Social Media
+#Answer
+Social media have many postive and negtive effects,like,we can use to talk with freinds and family and share picture and video.Also to learn a new thing and search about it.For example,twitter and instgram.social media helps businesses in marketing.They are effective and a good way to buy and sell.However, It take your time away from your family and you will feel lazy.Also People can share some information that might pose theats to them and bad pictures.In my opinion social media a good way to communicate with family and freinds but not all the time of the day with limit.

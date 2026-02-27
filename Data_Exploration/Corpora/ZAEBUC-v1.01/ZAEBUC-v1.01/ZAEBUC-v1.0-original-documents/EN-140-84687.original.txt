@@ -1,0 +1,14 @@
+#Anon_ID	84687
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Dubai city
+#Campus	DXB
+#Course	GEN-140
+#Section	510
+#Handwritten	0
+#DateAdded	2019-09-02 15:17:59
+#DateLastSaved	2019-09-02 15:45:02
+#Topic	Social Media
+#Answer
+ Social media is a widely controversial subject with various opinions regarding its negative and positive aspects. While social media has many positive impacts on society, it can also imprint many negative changes on people worldwide. Social media is widely used as a means of communication between people. Social media lifts boundaries made by long distances and creates roads that can easily connect people to one another. However, if not used correctly, those roads can lead to dead ends and cause individuals more harm than good. As the use of social media increased, studies have shown a simultanious increase of false information or news being shared by people. This can cause harm to societies due to the lack of trust between people. False information or rumors being spread can also stir alliances between countries. Also, bullying on the internet has become much easier to do since it can be anonymusly done. Since social media allows people to wear masks, it has been proven by psychology that it allows people to be more comfortable being harsh on others. This causes people to lose their lives and mental health due to bullying through social media. In conclusion, there are many positive and negative impacts of social media. Therefor, it is important to raise awarness on the dangers of social media to help limit the negative impacts it can cause on individuals and societies.

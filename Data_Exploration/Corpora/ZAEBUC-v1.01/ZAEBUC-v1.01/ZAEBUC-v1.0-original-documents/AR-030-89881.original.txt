@@ -1,0 +1,14 @@
+#Anon_ID	89881
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	ARA-030
+#Section	9
+#Handwritten	0
+#DateAdded	2019-08-29 11:29:06
+#DateLastSaved	2019-08-29 12:20:17
+#Topic	وسائل التواصل الاجتماعي
+#Answer
+في عصرنا هذا اصبح التواصل الاجتماعي شي اساسي نستخدمه بشكل يومي. للتواصل الاجتماعي الكثير من الايجابيات والسلبيات التي اثرت على حياتنا بشكل ملحوظ. من ايجابات التواصل الاجتماعي انها عملت على تسهيل التواصل بين البشر وجعلتنا نتعلم ونتعرف على ثقافات مختلفه

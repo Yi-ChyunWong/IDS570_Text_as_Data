@@ -1,0 +1,14 @@
+#Anon_ID	273084
+#Gender	Female
+#School_Type	Private
+#School_Language	English
+#Address	Abu Dhabi city
+#Campus	AUH
+#Course	GEN-140
+#Section	2
+#Handwritten	0
+#DateAdded	2019-09-01 10:18:52
+#DateLastSaved	2019-09-01 10:33:28
+#Topic	Social Media
+#Answer
+C) How do social media affect individuals and society ?     Social media is a tricky subject. It has a lot of negatives yet a lot of positives. It was created as an easy way for people to communicate and interact with eachother. Somehow it became a battle of who has more followers or who gets the most likes. An unfollow can be considered rude or it can be taken as an insult. A like means they have romantic interest, a retweet is like being asked on a date, and so on. It takes up a lot of teenagers and young adult's lives. Yet, it also is a way to find news, share your own thoughts and experiences with people, and make new friends. Though I have realized from personal experience that people who get too invested in social media tend to shut out humans from their surroundings. They focus solely on the social media friends until they realize that they should have been more attentive. Sometimes it's okay to put your phone down and go talk to your mother. It's okay to read a book, go for a walk, draw and unplug. And be careful who you trust on the inetrnet. 
